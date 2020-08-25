@@ -1,0 +1,3 @@
+﻿  rec03.cpp
+c:\users\danie\onedrive\college\semester2\objectorientedprogramming\lab03\rec03.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab03.vcxproj -> C:\Users\danie\OneDrive\College\Semester2\ObjectOrientedProgramming\Lab03\Debug\Lab03.exe
