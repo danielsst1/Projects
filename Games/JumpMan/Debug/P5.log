@@ -1,0 +1,5 @@
+﻿  Level1.cpp
+E:\Documents\GameProgramming2020\CSUY3113\P5\Level1.cpp(26,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  P5.vcxproj -> E:\Documents\GameProgramming2020\CSUY3113\P5\Debug\P5.exe

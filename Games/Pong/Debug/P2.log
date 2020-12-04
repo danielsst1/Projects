@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Documents\GameProgramming2020\CSUY3113\P2\ShaderProgram.h(6,1): warning C4005: 'GL_GLEXT_PROTOTYPES': macro redefinition
+E:\Documents\GameProgramming2020\CSUY3113\P2\main.cpp(7): message : see previous definition of 'GL_GLEXT_PROTOTYPES'
+E:\Documents\GameProgramming2020\CSUY3113\P2\main.cpp(76,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  P2.vcxproj -> E:\Documents\GameProgramming2020\CSUY3113\P2\Debug\P2.exe
